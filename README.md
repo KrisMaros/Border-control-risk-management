@@ -7,8 +7,6 @@ Aplikacja java z interfejsem graficznym do przeprowadzania weryfikacji pasażer�
 
 The purpose of the group task is give you practice developing a system using agile techniques, not the development of an extensive system. 
 
-Product vision – to produce a website or an app to showcase the cars for the GreenLine Passenger Targeting System (PTS).  
-
 Goal – to produce a prototype system that demonstrates high priority functionality for the GreenLine Passenger Targeting System (PTS)
 
 The detailed specification of the system will be developed in conjunction with the product owner (your tutor) using the Scrum methodology. 
