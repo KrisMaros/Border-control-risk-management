@@ -15,7 +15,9 @@ The GreenLine Passenger Targeting System (PTS) extracts passenger and crew infor
 •	Queries can be made against either passenger or flight data.
 
   o	Searching by passenger displays a list of passengers in the grid that match all selected criteria across multiple flights; whereas
-  o	Searching by flight displays a list of flights in the grid that match all selected criteria across multiple passengers, crew,           equipment, capacity factors or locations.    
+  
+  o	Searching by flight displays a list of flights in the grid that match all selected criteria across multiple passengers, crew,           equipment, capacity factors or locations.
+  
   o	Additional search constraints are included for more detailed queries.
   
 •	Clicking on an individual name opens a new window containing the full passenger details with hyperlinks to additional data, including seating, flight, ticket and payment details.
@@ -28,6 +30,7 @@ The GreenLine Passenger Targeting System (PTS) extracts passenger and crew infor
 
 •	A user may also initiate workflows and case management activities with other users/analysts within their own agency or in partnership with other agencies. 
 
-  o	Shared folders can be populated with either passengers or flights via manual point-and-click or drag-and-drop functionality or           automation (based on user-defined and organization-defined settings).  
+  o	Shared folders can be populated with either passengers or flights via manual point-and-click or drag-and-drop functionality or           automation (based on user-defined and organization-defined settings).
+  
   o	Administrative controls can be created to restrict information only to those users with a “Need to Know”.
 
