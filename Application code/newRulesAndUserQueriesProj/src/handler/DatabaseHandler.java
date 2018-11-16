@@ -1,0 +1,26 @@
+package handler;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class DatabaseHandler
+{
+    private static DatabaseHandler instance = new DatabaseHandler();
+
+    private DatabaseHandler()
+    {
+    }
+
+    public static DatabaseHandler getInstance()
+    {
+        return instance;
+    }
+
+    public static Connection getConnection() throws SQLException
+    {
+        DriverManager.registerDriver(new org.apache.derby.jdbc.ClientDriver());
+        return DriverManager.getConnection("jdbc:derby://localhost:1527/PTS", "username", "USERNAME");
+    }
+
+}
