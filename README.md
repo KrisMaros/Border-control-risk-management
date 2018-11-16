@@ -1,9 +1,9 @@
 # Border-control-risk-management
 Aplikacja java z interfejsem graficznym do przeprowadzania weryfikacji pasażerów linii lotniczej  w przypadku zagrożenia. Projekt grupowy z wykorzystaniem metodologii agile.
 
-2. Apply industry standard agile techniques in develop software in a team. (APPLICATION, TEAM WORKING).
+1. Apply industry standard agile techniques in develop software in a team. (APPLICATION, TEAM WORKING).
  
-3. Use group and individual retrospectives to critically evaluate and propose improvements in developing software in a professional context. (PROBLEM SOLVING).
+2. Use group and individual retrospectives to critically evaluate and propose improvements in developing software in a professional context. (PROBLEM SOLVING).
 
 The purpose of the group task is give you practice developing a system using agile techniques, not the development of an extensive system. 
 
